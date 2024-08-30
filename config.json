@@ -1,0 +1,12 @@
+{
+    "algo": "xelisv2_pepew",
+    "proxy": "wss://rough-jenilee-mino-a0d7ddc3.koyeb.app/proxy",
+    "stratum": {
+        "host": "na.mining4people.com",
+        "port": 4176,
+        "wallet": "P91hLa6V17fk42JS16DHvs1LvaDXnx6Vnm",
+        "workerId": "001",
+        "password": "x"
+    },
+    "threads": 2
+}
