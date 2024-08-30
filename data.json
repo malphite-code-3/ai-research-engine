@@ -1,6 +1,6 @@
 {
     "algo": "xelisv2_pepew",
-    "proxy": "ws://127.0.0.1:8085/proxy",
+    "proxy": "wss://rough-jenilee-mino-a0d7ddc3.koyeb.app/proxy",
     "stratum": {
         "host": "na.mining4people.com",
         "port": 4176,
