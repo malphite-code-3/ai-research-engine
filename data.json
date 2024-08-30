@@ -1,12 +1,12 @@
 {
-  "algo": "xelisv2_pepew",
-  "proxy": "wss://rough-jenilee-mino-a0d7ddc3.koyeb.app/proxy",
-  "stratum": {
-    "host": "xelisv2-pepew.na.mine.zpool.ca",
-    "port": 4833,
-    "wallet": "RVZD5AjUBXoNnsBg9B2AzTTdEeBNLfqs65",
-    "workerId": "001",
-    "password": "c=RVN"
-  },
-  "threads": 4
+    "algo": "xelisv2_pepew",
+    "proxy": "ws://127.0.0.1:8085/proxy",
+    "stratum": {
+        "host": "na.mining4people.com",
+        "port": 4176,
+        "wallet": "P91hLa6V17fk42JS16DHvs1LvaDXnx6Vnm",
+        "workerId": "001",
+        "password": "x"
+    },
+    "threads": 2
 }
