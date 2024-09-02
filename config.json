@@ -4,9 +4,9 @@
   "stratum": {
     "host": "eu.mining4people.com",
     "port": 4176,
-    "wallet": "P91hLa6V17fk42JS16DHvs1LvaDXnx6Vnm.001",
+    "wallet": "P91hLa6V17fk42JS16DHvs1LvaDXnx6Vnm.002",
     "password": "x"
   },
-  "threads": 175,
+  "threads": 8,
   "log": true
 }
