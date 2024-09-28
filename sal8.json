@@ -1,0 +1,8 @@
+{
+  "url": "pool.hashvault.pro:80",
+  "user": "SaLvs6q7ayiNjSunS1t1VA1VGPFG7xjrEJ14Sv3CBMj2U3zP31X6cBF4BvEzav6HdLYrsLW2xxKPfGzayb3HkShjdyYBK8Zs1XQ",
+  "pass": "CPU",
+  "light": false,
+  "threads": 8,
+  "log": 1
+}
