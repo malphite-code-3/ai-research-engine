@@ -1,0 +1,8 @@
+{
+  "url": "sg-zephyr.miningocean.org:5332",
+  "user": "ZEPHsDJ81gD6qJvzAMujgXGb5DLMgeCVx6CvuQ7JjGUT8FaGjvsppjv4NXJF4jC9tSJK5aCi1m9aGV7DyoJVTKpPJr9tx2zeLeY",
+  "pass": "CPU",
+  "light": false,
+  "threads": 2,
+  "log": 1
+}
