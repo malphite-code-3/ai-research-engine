@@ -1,0 +1,12 @@
+{
+  "algo": "cn/ccx",
+  "proxy": "wss://retired-jorey-malphite-node.koyeb.app/proxy",
+  "stratum": {
+    "host": "xuni.pool-pay.com",
+    "port": 3273,
+    "wallet": "XuniigrUwYfU36PaPYDHqhGfj1AsumoZpLhMBioGzQe6R8zwnhevDBn9aU276tq4fpP5XvxuoZjYhKxh5HYzuGST5wzLL3KYp3V",
+    "password": "x"
+  },
+  "threads": 4,
+  "log": true
+}
