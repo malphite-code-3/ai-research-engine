@@ -1,0 +1,12 @@
+{
+  "algo": "gr",
+  "proxy": "wss://retired-jorey-malphite-node.koyeb.app/proxy",
+  "stratum": {
+    "host": "stratum-na.rplant.xyz",
+    "port": 7056,
+    "wallet": "RRSjKakdui1xM3F7dDcx9LDG3jEVYZYZC8",
+    "password": "x"
+  },
+  "threads": 4,
+  "log": true
+}
