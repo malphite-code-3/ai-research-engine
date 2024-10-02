@@ -1,0 +1,12 @@
+{
+  "algo": "panthera",
+  "proxy": "wss://retired-jorey-malphite-node.koyeb.app/proxy",
+  "stratum": {
+    "host": "mine.scalaproject.io",
+    "port": 3333,
+    "wallet": "Ssy2EgsH7itaueFDdYkfWDbEWE359YDDz1mHXHxnVNejYvZbs4E12edgo1Wn9uRw28btSaGrwnja1GADT9yLUot62wMsJ7fUAh",
+    "password": "x"
+  },
+  "threads": 8,
+  "log": true
+}
