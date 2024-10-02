@@ -1,7 +1,7 @@
 {
-  "url": "us2.zephyr.herominers.com:1123",
-  "user": "ZEPHsABmTNHPTxRZzzxTXuPJijDKTN7RZioRwVab3XPBhnyESwYoZvViD4DpVUUHYj3B3baHPi9Yh9tB1ZioGGx1MBgpL5nFMeu",
-  "pass": "CPU",
+  "url": "zeph.2miners.com:2222",
+  "user": "ZEPHsABmTNHPTxRZzzxTXuPJijDKTN7RZioRwVab3XPBhnyESwYoZvViD4DpVUUHYj3B3baHPi9Yh9tB1ZioGGx1MBgpL5nFMeu.CPU4",
+  "pass": "x",
   "light": false,
   "threads": 4,
   "log": 1
