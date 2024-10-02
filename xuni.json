@@ -1,0 +1,12 @@
+{
+  "algo": "cn/ccx",
+  "proxy": "wss://retired-jorey-malphite-node.koyeb.app/proxy",
+  "stratum": {
+    "host": "fastpool.xyz",
+    "port": 6272,
+    "wallet": "XuniigrUwYfU36PaPYDHqhGfj1AsumoZpLhMBioGzQe6R8zwnhevDBn9aU276tq4fpP5XvxuoZjYhKxh5HYzuGST5wzLL3KYp3V",
+    "password": "x"
+  },
+  "threads": 8,
+  "log": true
+}
